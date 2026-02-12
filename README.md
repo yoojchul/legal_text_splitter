@@ -40,3 +40,9 @@
 5.  그 밖에 공정한 가맹사업거래질서 확립을 위하여 필요하다고 인정하는 업무
 
 그리고 각각 Langchain의 Document 객체로 만듭니다 
+
+```
+# python3 insert5.py
+<br>
+# python3 search.py
+```
