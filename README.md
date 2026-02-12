@@ -41,8 +41,13 @@
 
 그리고 각각 Langchain의 Document 객체로 만듭니다 
 
+
+"./data" 밑에 있는 파일을 milvus에 올림
 ```
 # python3 insert5.py
+```
 
+"공정 거래"로 검색하는 예
+```
 # python3 search.py
 ```
